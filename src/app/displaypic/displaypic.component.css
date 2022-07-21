@@ -1,0 +1,13 @@
+img {
+  width: 500px;
+  height: 600px;
+}
+
+.btnNew {
+  padding: 15px 10px;
+  color: antiquewhite;
+  background-color: blueviolet;
+  border-radius: 10px;
+  border-color: aliceblue;
+  margin: 15px;
+}
